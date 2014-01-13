@@ -1,0 +1,6 @@
+TITLE CALCULADORA
+;Lucas Dias Faquim 11121EMT019
+;André Fernandes de Almeida 11011EMT013
+.MODEL SMALL
+
+.STACK 100h
